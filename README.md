@@ -9,5 +9,7 @@ The OS must be runned on the Terminal and Terminal as the window
 THE OS must use unicode characters
 The OS has to be able to:
 - Write / Save / Open / Delete a text document
-Your OS or finishing product must have 2 files a `RUN` and a `INSTALL`
+Your OS or finishing product must have 2 files a 'RUN' and a 'INSTALL'
 ```
+
+To publish your work please do a issue including the file!
